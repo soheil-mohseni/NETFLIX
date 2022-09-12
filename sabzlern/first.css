@@ -1,0 +1,98 @@
+#first {
+background-image: url("first.png");
+width: 100%;
+height: 700px;
+background-repeat: no-repeat,;
+background-size: cover; /* Resize the background image to cover the entire container */
+position: relative;
+}
+
+#div-Watch-best-exclusive {
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    margin-top: 120px;
+    margin-left: 160px;
+}
+
+
+#Watch-best-exclusive {
+
+    position: absolute;
+    display: inline-block;
+    color: whitesmoke;
+    font-size: 50px;
+
+}
+
+#Smart-TVs{
+    padding-top: 300px;
+    font-size: 15px;
+    color: rgb(129, 161, 161);
+    margin-bottom: 0px;
+}
+
+
+#TRY-FOR-FREE-30-DAYS {
+    width: 300px;
+    margin-top: 33px;
+    margin-left: 185px;
+    margin-right: 666px;
+}
+
+
+#second {
+    background-image: url("netflix.jpg");
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat,;
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    }
+
+.netflix-text {
+
+    display: inline-block;
+    color: red;
+    font-size: 50px;
+
+}
+
+
+
+#third {
+    background-image: url("end.jpg");
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat,;
+    background-size: cover; /* Resize the background image to cover the entire container */
+    position: relative;
+    }
+
+
+#log-in-box {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px ;
+    border-radius: 30px;
+}
+
+#email{
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 75px;
+    background-color: #585555;
+}
+
+#sign-in{
+
+    display: inline-block;
+    color: whitesmoke;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-left: 130px;
+
+}
